@@ -1,0 +1,46 @@
+Commercial use notice
+=====================
+
+This shelf redistributes other people's simulators. You may charge money only
+on the terms of each project's own license. This file is not legal advice.
+
+MIT — selling copies is allowed
+--------------------------------
+These three grants include the right to sell copies, if this copyright notice
+and the MIT permission notice ship with every copy or substantial portion:
+
+- sims/brainxyz
+  Copyright (c) 2022 Hunar Ahmad
+  https://github.com/hunar4321/particle-life
+  License: MIT (see sims/brainxyz/LICENSE)
+
+- sims/codeparade
+  Copyright (c) 2018 HackerPoet
+  https://github.com/HackerPoet/Particle-Life
+  License: MIT (see sims/codeparade/LICENSE)
+
+- sims/fnky-web
+  Copyright (c) 2018 Christian Petersen (https://cbp.io)
+  https://github.com/fnky/particle-life
+  License: MIT (see sims/fnky-web/LICENSE on branch master)
+
+Keep the LICENSE file in the product. Do not remove the authors' names.
+The MIT grant does not give you their trademarks, YouTube brands, or the
+name "Particle Life" as your own product name.
+
+GPL-3.0 — do not sell a closed copy
+------------------------------------
+- sims/particle-life-app
+  Copyright belongs to its authors; license is GNU GPL-3.0
+  (see sims/particle-life-app/LICENSE.md)
+  Upstream: https://github.com/tom-mohr/particle-life-app
+
+You may charge for a copy, but anyone you sell it to must receive the
+GPL-3.0 terms and the corresponding source. You may not lock it down,
+mix it into a proprietary binary, or sublicense it under MIT.
+If a paid app includes this code, the app that links it is GPL-3.0 too.
+
+Not included
+------------
+No license here covers the authors' names, logos, or the particle-life.com
+site. "AS IS" means no warranty from the authors or from this shelf.

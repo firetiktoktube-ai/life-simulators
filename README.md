@@ -49,3 +49,13 @@ These are separate projects. Do not merge their source into one binary without r
 - GPL-3.0: Tom Mohr's app. A combined work that links this code must stay GPL-3.0.
 
 Upstream homes: [hunar4321/particle-life](https://github.com/hunar4321/particle-life), [tom-mohr/particle-life-app](https://github.com/tom-mohr/particle-life-app), [HackerPoet/Particle-Life](https://github.com/HackerPoet/Particle-Life), [fnky/particle-life](https://github.com/fnky/particle-life).
+
+## Selling
+
+Not legal advice. Each folder keeps its own license.
+
+The three MIT sims (Brainxyz, CodeParade, fnky) may be sold. The MIT text itself says you can sell copies, if the copyright notice and the MIT permission notice stay in every copy. Those notices are collected in `NOTICE`.
+
+Tom Mohr's desktop app is GPL-3.0. You can charge for it, but you cannot sell a closed version. Buyers must get the GPL and the source, and a paid app that includes that code has to stay GPL-3.0.
+
+None of these licenses hand you the authors' names, logos, or the particle-life.com brand. Ship `NOTICE` with anything you sell.
