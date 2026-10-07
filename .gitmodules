@@ -1,0 +1,16 @@
+[submodule "sims/brainxyz"]
+	path = sims/brainxyz
+	url = https://github.com/firetiktoktube-ai/particle-life.git
+	branch = main
+[submodule "sims/particle-life-app"]
+	path = sims/particle-life-app
+	url = https://github.com/firetiktoktube-ai/particle-life-app.git
+	branch = main
+[submodule "sims/codeparade"]
+	path = sims/codeparade
+	url = https://github.com/firetiktoktube-ai/codeparade-particle-life.git
+	branch = master
+[submodule "sims/fnky-web"]
+	path = sims/fnky-web
+	url = https://github.com/firetiktoktube-ai/fnky-particle-life.git
+	branch = master
